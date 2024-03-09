@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "hi",
+      "datetime": "october 02, 2023 11:18:43 Am",
+      "body": "hi all"
+    },
+    {
+      "id": "2",
+      "title": "kavi",
+      "datetime": "October 20, 2023 11:09:02 AM",
+      "body": "Good evening\n"
+    },
+    {
+      "id": "3",
+      "title": "title",
+      "datetime": "October 20, 2023 11:25:00 AM",
+      "body": "content.."
+    },
+    {
+      "id": "4",
+      "title": "kkkk",
+      "datetime": "December 06, 2023 12:52:31 PM",
+      "body": "laKDKEHFLWEBKWEHHEWHVEHEHBVJJHVJHDVJHDJVJHHJVJHJBHJEHJVHJHJVWJVHJHWJHJVJJBHJHJBHJWHBKWBJ"
+    }
+  ]
+}
